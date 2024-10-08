@@ -12,13 +12,13 @@
 }
 
 #question h2{
-    margin-bottom: 1rem;
+    margin-bottom: .2rem;
 }
 
 #options-container {
     display: flex;
     flex-direction: row;
-    margin: 1rem 0;
+    margin: .5rem 0;
 }
 
 #buttonsdiv {
