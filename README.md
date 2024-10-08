@@ -1,5 +1,4 @@
-# Título do Projeto
-
+# Quiz Pense Bem Sonic
 ##Sobre o projeto
 O projeto tem como objetivo criar um game que preserve a essência do 'Pense Bem', adaptando-o ao universo de Sonic de forma a oferecer uma experiência de jogo memorável. A seleção do livro 'Uma aventura científica com Sonic' como referência garante a fidelidade à temática original e permite a criação de um banco de dados de perguntas abrangente e alinhado com os valores educativos da obra. A interface do jogo foi desenvolvida com base na estética visual da franquia Sonic, proporcionando imersão e nostalgia aos jogadores.
 
