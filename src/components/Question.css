@@ -31,7 +31,8 @@
     margin: 0 .5rem;
     width: 5vw;
     height: 2vh;
-    font-size: 0.7rem 
+    font-size: 0.7rem;
+    padding-bottom: 1.5rem;
 }
 
 #show {
