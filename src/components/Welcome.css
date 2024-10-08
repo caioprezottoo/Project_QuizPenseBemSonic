@@ -1,0 +1,30 @@
+body{
+    background-image: url("../img/bghome.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#welcome{
+    height: 448px;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    width: 719px;
+}
+
+#welcome img {
+    margin: 1.5rem 0;
+    width: 40%;
+}
+
+#welcome h2,
+#welcome p{
+    margin-bottom: 1rem;
+}
+
+#welcome p{
+    color: #026ae0;
+}

@@ -1,0 +1,29 @@
+#books{
+    height: 600px;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    width: 719px;
+}
+
+#books img {
+    margin: 1.5rem 0;
+    width: 40%;
+}
+
+#books h2 {
+    margin: 2rem 0;
+}
+
+#books button {
+    padding: 1rem 2rem;
+    margin: 0 .5rem;
+}
+
+#books p {
+    margin-bottom: .5rem;
+}
+
+#final {
+    margin: .5rem 0 ;
+}
