@@ -15,7 +15,5 @@ O projeto tem como objetivo criar um game que preserve a essência do 'Pense Bem
 * Linguagens: HTML, CSS e JavaScript
 * Frameworks: React
   
-## Autores
+## Autor
 * Caio Prezotto
-* Davi Xavier
-* Arthur Honório
